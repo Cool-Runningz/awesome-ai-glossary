@@ -15,7 +15,7 @@
 
 ## Table of Contents
 - [Core Terms](#-core-terms)
-- [Tools](#-tools)
+- [Tools](#%EF%B8%8F-tools)
 - [Models](#-models)
 - [Companies & Labs](#-companies--labs)
 <br />
